@@ -1,4 +1,4 @@
-: [Acasa](./index.html) / [Arhitectura cloud](./topic/arhitectura_cloud.html)
+: [Acasa](../index.html) / [Arhitectura cloud](./arhitectura_cloud.html)
 
 # Arhitectura cloud
 
@@ -10,7 +10,7 @@ Serviciul pe care il vom pune in picioare arata in felul urmator:
 
 Acesta contine un web proxy si o aplicatie web. Ele ruland pe o masina virtuala inchiriata, cu CentOS Linux preinstalat.
 
-#### [Linia de comanda](./topic/linia_comanda.html)
+#### [Linia de comanda](./linia_comanda.html)
 
 * * *
 ![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)

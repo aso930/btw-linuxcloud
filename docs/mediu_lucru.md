@@ -20,7 +20,7 @@ Pentru a va usura munca am creat o metoda automata de a porni si configura mediu
 
 8. Opriti masinile virtuale folosind `vagrant halt` si inchideti fereastra
 
-[TODO](video)
+[![demo video](./img/vthumb.png)](https://vimeo.com/264957960)
 
 * * *
 ![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)

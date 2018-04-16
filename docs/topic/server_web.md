@@ -1,10 +1,10 @@
-: [Acasa](./index.html) / [Server web](./topic/server_web.html)
+: [Acasa](../index.html) / [Server web](./server_web.html)
 
 # Server web
 
 [TO DO](content)
 
-#### [Configurarea serviciilor](./topic/configurarea_serviciilor.html)
+#### [Configurarea serviciilor](./configurarea_serviciilor.html)
 
 * * *
 ![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
