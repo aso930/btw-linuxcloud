@@ -8,17 +8,17 @@ Pentru a va usura munca am creat o metoda automata de a porni si configura mediu
 
 2. Descarcam si instalam Vagrant de [aici](https://releases.hashicorp.com/vagrant/2.0.3/vagrant_2.0.3_x86_64.msi)
 
-3. Copiem fisierul denumit Vagrantfile (pe care il gasiti aici) pe calculatorul personal, intr-un folder separat.
+3. Copiem fisierul denumit Vagrantfile (pe care il gasiti [aici](https://raw.githubusercontent.com/aso930/btw-linuxcloud/master/vagrant/Vagrantfile)) pe calculatorul personal, intr-un folder separat. Aveti mare grija ca sa nu existe spatii in path-ul spre fisier. Spre exemplu `D:\Downloads\Vagrantfile` e un path valid, dar `D:\My Documents\Vagrantfile` nu este.
 
 4. Deschidem Command Prompt in folderul unde am descarcat fisierul Vagrantfile. Apasam pe bara de adrese in File explorer, scriem `cmd` si apasam tasta `Enter`.
 
 5. Ne asiguram ca suntem in folderul unde e fisierul Vagrantfile. Scriem `dir` in fereastra Command Prompt, ar trebui sa vedem fisierul Vagrantfile. Daca nu apare, verificati ca sunteti in folderul care trebuie.
 
-6. Executati comanda `vagrant up`
+6. Executam comanda `vagrant up`
 
-7. Lasati comanda sa ruleze. Aceasta va dura cateva minute, in functie de viteza conexiunii la internet. La final va aparea ca s-a executat cu succes.
+7. Lasam comanda sa ruleze. Aceasta va dura cateva minute, in functie de viteza conexiunii la internet. La final va aparea ca s-a executat cu succes.
 
-8. Opriti masinile virtuale folosind `vagrant halt` si inchideti fereastra
+8. Oprim masinile virtuale folosind `vagrant halt` si inchideti fereastra
 
 [![demo video](./img/vthumb.png)](https://vimeo.com/264957960)
 
