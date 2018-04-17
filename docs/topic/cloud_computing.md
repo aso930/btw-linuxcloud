@@ -1,4 +1,4 @@
-: [Acasa](./index.html) / [Conceptul de cloud computing](./topic/cloud_computing.html)
+: [Acasa](../index.html) / [Conceptul de cloud computing](./cloud_computing.html)
 
 # Conceptul de cloud computing
 
@@ -8,7 +8,7 @@ In cei mai simpli termeni cloud computing-ul, este o denumire generica pentru si
 
 Ca raspuns pentru aceste nevoi piata a dus la formarea de companii care ofera servicii de cloud computing. Cloud computing-ul ofera companiilor mentionate mai sus, si nu numai, posibilitatea sa foloseasca resurse de calcul de care au nevoie pentru a fi performante, fara a trebui sa intretina echipamente fizice. 
 
-#### [Arhitectura cloud](./topic/arhitectura_cloud.html)
+#### [Arhitectura cloud](./arhitectura_cloud.html)
 
 * * *
 ![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)

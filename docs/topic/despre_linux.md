@@ -1,4 +1,4 @@
-: [Acasa](./index.html) / [Despre Linux](./topic/despre_linux.html)
+: [Acasa](../index.html) / [Despre Linux](./despre_linux.html)
 
 # Despre Linux
 
@@ -14,7 +14,7 @@ Cand a aparut Linux era singurul kernel gratuit si open source. Acest aspect l-a
 
 De-alungul timpului sistemele de operare bazate pe Linux s-au dovedit a fi foarte stabile si performante. Aceste caracteristici au condus la dominanta pe care o au astazi pe piata.
 
-#### [Masini virtuale](./topic/masini_virtuale.html)
+#### [Masini virtuale](./masini_virtuale.html)
 
 * * *
 ![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)

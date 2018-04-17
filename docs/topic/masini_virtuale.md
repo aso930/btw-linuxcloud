@@ -1,4 +1,4 @@
-: [Acasa](./index.html) / [Masini virtuale](./topic/masini_virtuale.html)
+: [Acasa](../index.html) / [Masini virtuale](./masini_virtuale.html)
 
 # Masini virtuale
 
@@ -16,7 +16,7 @@ Diferenta dintre servere fizice si masini virtuale:
 
 [TO DO](image)
 
-#### [Conceptul de cloud computing](./topic/cloud_computing.html)
+#### [Conceptul de cloud computing](./cloud_computing.html)
 
 * * *
 ![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)

@@ -1,10 +1,10 @@
-: [Acasa](./index.html) / [Configurarea serviciilor](./topic/configurarea_serviciilor.html)
+: [Acasa](../index.html) / [Configurarea serviciilor](./configurarea_serviciilor.html)
 
 # Configurarea serviciilor
 
 [TO DO](content)
 
-#### [Pornirea aplicatiilor](./topic/pornirea_aplicatiilor.html)
+#### [Pornirea aplicatiilor](./pornirea_aplicatiilor.html)
 
 * * *
 ![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)

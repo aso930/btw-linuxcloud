@@ -1,10 +1,10 @@
-: [Acasa](./index.html) / [Retele de calculatoare](./topic/retele_calculatoare.html)
+: [Acasa](../index.html) / [Retele de calculatoare](./retele_calculatoare.html)
 
 # Retele de calculatoare
 
 [TO DO](content)
 
-#### [Instalarea de software](./topic/instalare_software.html)
+#### [Instalarea de software](./instalare_software.html)
 
 * * *
 ![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)

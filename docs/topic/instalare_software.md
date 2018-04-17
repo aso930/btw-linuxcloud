@@ -1,10 +1,10 @@
-: [Acasa](./index.html) / [Instalarea de software](./topic/instalare_software.html)
+: [Acasa](../index.html) / [Instalarea de software](./instalare_software.html)
 
 # Instalarea de software
 
 [TO DO](content)
 
-#### [Server web](./topic/server_web.html)
+#### [Server web](./server_web.html)
 
 * * *
 ![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)

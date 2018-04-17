@@ -1,10 +1,10 @@
-: [Acasa](./index.html) / [Linia de comanda](./topic/linia_comanda.html)
+: [Acasa](../index.html) / [Linia de comanda](./linia_comanda.html)
 
 # Linia de comanda
 
 [TO DO](content)
 
-#### [Retele de calculatoare](./topic/retele_calculatoare.html)
+#### [Retele de calculatoare](./retele_calculatoare.html)
 
 * * *
 ![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)

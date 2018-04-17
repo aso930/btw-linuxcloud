@@ -1,4 +1,4 @@
-: [Acasa](./index.html) / [Pornirea aplicatiilor](./topic/pornirea_aplicatiilor.html)
+: [Acasa](../index.html) / [Pornirea aplicatiilor](./pornirea_aplicatiilor.html)
 
 # Pornirea aplicatiilor
 
