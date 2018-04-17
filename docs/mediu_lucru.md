@@ -8,7 +8,7 @@ Pentru a va usura munca am creat o metoda automata de a porni si configura mediu
 
 2. Descarcam si instalam Vagrant de [aici](https://releases.hashicorp.com/vagrant/2.0.3/vagrant_2.0.3_x86_64.msi)
 
-3. Copiem fisierul denumit Vagrantfile (pe care il gasiti [aici](https://raw.githubusercontent.com/aso930/btw-linuxcloud/master/vagrant/Vagrantfile)) pe calculatorul personal, intr-un folder separat. Aveti mare grija sa nu existe spatii in path-ul spre fisier. Spre exemplu `D:\Downloads\Vagrantfile` e un path valid, dar `D:\My Documents\Vagrantfile` nu este. Cand salvati fisierul, asigurati-va sa nu aiba extensie, `Vagrantfile.txt` nu e valid.
+3. Cream un folder nou, dedicat, numit `Vagrant`. In acest folder cream fisierul denumit Vagrantfile (continutul fisierului il gasiti [aici](https://raw.githubusercontent.com/aso930/btw-linuxcloud/master/vagrant/Vagrantfile)). Aveti mare grija sa nu existe spatii in path-ul spre fisier. Spre exemplu `D:\Downloads\Vagrant\Vagrantfile` e un path valid, dar `D:\My Documents\Vagrant\Vagrantfile` nu este. Daca salvati fisierul, asigurati-va sa nu aiba extensie, `Vagrantfile.txt` nu e valid.
 
 4. Deschidem Command Prompt in folderul unde am descarcat fisierul Vagrantfile. Apasam pe bara de adrese in File explorer, scriem `cmd` si apasam tasta `Enter`.
 
