@@ -358,6 +358,7 @@ fi
 2. Afisam numarul de linii de log-uri inregistrate in fisierul /var/log/messages
 3. Filtram continutul /var/log/messages pentru a afisa si numara doar mesajele care contin cuvantul "warn".
 4. Adaugam un nou user pe sistem "btwlinux", cu parola "btwlinux"
+5. Ne contectam prin SSH catre VM-ul "Proxy", cu utilizatorul nou creat. Utilizatorii de Windows pot folosi [Putty]( https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe) si utilizatorii de Linux pot folosi direct comanda ssh.
 
 #### [Retele de calculatoare](./retele_calculatoare.html)
 

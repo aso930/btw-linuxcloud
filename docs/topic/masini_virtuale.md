@@ -19,6 +19,10 @@ Diferenta dintre servere fizice si masini virtuale:
 
 [TO DO](image)
 
+# Exercitii
+1. pornire VM
+2. validare adaptor retea VM
+
 #### [Conceptul de cloud computing](./cloud_computing.html)
 
 * * *
