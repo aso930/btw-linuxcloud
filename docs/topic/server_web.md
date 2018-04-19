@@ -4,6 +4,12 @@
 
 [TO DO](content)
 
+# Exercitii
+1. Vom deschide un browser si vom activa untilitarul de diagnoza prin tasta F12.
+2. In utilitarul de diagnoza vom activa tab-ul Network, pentru a monitoriza requesturile HTTP.
+3. Vom investiga un request HTTP catre un site - [TEST](http://status.aso.re/)
+
+
 #### [Configurarea serviciilor](./configurarea_serviciilor.html)
 
 * * *

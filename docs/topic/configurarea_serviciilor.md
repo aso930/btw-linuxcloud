@@ -4,6 +4,11 @@
 
 [TO DO](content)
 
+# Exercitii
+1. Com configura serviciul httpd pe VM-ul Proxy, pentru a asculta requesturi HTTP.
+2. Verificam pagina de test httpd.
+3. Vom configura o locatie separata care sa ne trimita spre VM-ul Proxy.
+
 #### [Pornirea aplicatiilor](./pornirea_aplicatiilor.html)
 
 * * *

@@ -13,8 +13,15 @@ O masina virtuala este  un server care ruleaza intr-un server (numit host, in li
 Printre avantajele unei arhitecturi bazate pe masini virtuale se enumera: posibilitatea de comasa mai multe servere fizice cu roluri diferite intr-un singur server fizic pe care ruleaza mai multe masini virtuale, izolarea aplicatiilor in masini virtuale separate din motive de performanta sau securitate, usurinta de administrare.
 
 Diferenta dintre servere fizice si masini virtuale:
+![server_fizic](../img/virt1.png)
+
+![server_virtual](../img/virt2.png)
 
 [TO DO](image)
+
+# Exercitii
+1. pornire VM
+2. validare adaptor retea VM
 
 #### [Conceptul de cloud computing](./cloud_computing.html)
 
