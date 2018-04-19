@@ -6,13 +6,15 @@ Linux este un termen general care este folosit pentru a descrie multimea uriasa 
 
 Imaginea de mai jos descrie cel mai bine conceptul.
 
-[TO DO](imagehere)
+![distro](../img/distro.png)
 
 Avantajele si dezavantajele acestor sisteme de operare s-au schimbat de-alungul timpului, cu evolutia si maturizarea ecosistemului IT.
 
 Cand a aparut Linux era singurul kernel gratuit si open source. Acest aspect l-a facut candidatul ideal pentru a pune bazele unui sistem de operare gratuit si open source. O data cu maturizarea acestor sisteme de operare, ele au inceput sa fie folosite din ce in ce mai des in mediul enterprise. Acest lucru se datoreaza in principal faptului ca oricine putea sa incerce Linux, fara sa fie nevoit sa plateasca pentru licente de utilizare. 
 
 De-alungul timpului sistemele de operare bazate pe Linux s-au dovedit a fi foarte stabile si performante. Aceste caracteristici au condus la dominanta pe care o au astazi pe piata.
+
+![os_layer](../img/os_layers.png)
 
 #### [Masini virtuale](./masini_virtuale.html)
 

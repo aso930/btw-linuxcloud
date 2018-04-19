@@ -267,7 +267,11 @@ gpgcheck=1
 enabled=0
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
 ```
-
+# Exercitii
+1. Verificam daca avem deja instalate pachetele "httpd" si "golang" pe VM-ul Web si Proxy.
+2. Pe VM-ul Web, instalam la nevoie pachetul "golang".
+3. Pe VM-ul Proxy, instalam la nevoie pachetul "httpd".
+4. Pe VM-ul Proxy, verificam daca serviciul "httpd" este pornit.
 
 #### [Server web](./server_web.html)
 

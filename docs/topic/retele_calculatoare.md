@@ -2,6 +2,8 @@
 
 # Retele de calculatoare
 
+![Model OSI](http://electricala2z.com/wp-content/uploads/2017/10/osi-model.gif)
+
 ## Linux și rețelistica
 
 Linux inițiază tabela de routare a sistemului în timpul pornirii sistemului de operare. După ce kernelul termină secvența de inițializare, acesta rulează anumite utilitare de sistem si verifică fișiere de configurare ale sistemului de operare, prin care stabiliește identitatea calculatorului la nivel de rețea.
@@ -173,6 +175,12 @@ public (active)
 
 
 ```
+# Exercitii
+1. Verificam statusul serviciul de Firewall si il pornim, daca nu este inca pornit, pe VM-ul Proxy
+2. Verificam lista de servicii accesibile, pe VM-ul Proxy
+3. Stergem serviciul "dhcpv6-client" din lista de servicii accesibile prin firewall, pe VM-ul Proxy
+4. Adaugam serviciile HTTP si HTTPS in lista de servicii accesibile prin firewall, pe VM-ul Proxy.
+5. Pe VM-ul Web, vom adauga portul 18080 si protocolul TCP in firewall.
 
 #### [Instalarea de software](./instalare_software.html)
 

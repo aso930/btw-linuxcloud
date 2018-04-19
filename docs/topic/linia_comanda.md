@@ -353,6 +353,12 @@ else
 fi
 ```
 
+# Exercitii
+1. Verificam numele distributiei de Linux si versiunea sa. (hostnamectl)
+2. Afisam numarul de linii de log-uri inregistrate in fisierul /var/log/messages
+3. Filtram continutul /var/log/messages pentru a afisa si numara doar mesajele care contin cuvantul "warn".
+4. Adaugam un nou user pe sistem "btwlinux", cu parola "btwlinux"
+
 #### [Retele de calculatoare](./retele_calculatoare.html)
 
 * * *
