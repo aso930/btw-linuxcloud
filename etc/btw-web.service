@@ -1,0 +1,13 @@
+[Unit]
+Description=BTW Web Application
+After=network.target
+
+[Service]
+Type=simple
+PrivateTmp=true
+ExecStart=/home/btwlinux/btw
+User=btwlinux
+Group=btwlinux
+
+[Install]
+WantedBy=multi-user.target

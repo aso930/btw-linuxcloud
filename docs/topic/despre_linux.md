@@ -6,7 +6,7 @@ Linux este un termen general care este folosit pentru a descrie multimea uriasa 
 
 Imaginea de mai jos descrie cel mai bine conceptul.
 
-![distro](../img/distro.png)
+![os_layer](../img/os_layers.png)
 
 Avantajele si dezavantajele acestor sisteme de operare s-au schimbat de-alungul timpului, cu evolutia si maturizarea ecosistemului IT.
 
@@ -14,7 +14,11 @@ Cand a aparut Linux era singurul kernel gratuit si open source. Acest aspect l-a
 
 De-alungul timpului sistemele de operare bazate pe Linux s-au dovedit a fi foarte stabile si performante. Aceste caracteristici au condus la dominanta pe care o au astazi pe piata.
 
-![os_layer](../img/os_layers.png)
+In ziua de azi exista sute de distributii de Linux active. Activ inseamna ca sunt intretinute si primesc update-uri regulat. In schimb exista doua familii mari de distributii care sunt foarte populare, cele mai multe ghiduri fiind create pe baza lor. 
+ - Familia Debian, din care face parte si Ubuntu. 
+ - Familia Red Hat, din care face parte CentOS, sistemul de operare folosit in exercitiile noastre.
+
+![distro](../img/distro.png)
 
 #### [Masini virtuale](./masini_virtuale.html)
 
