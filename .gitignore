@@ -47,6 +47,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+*/diagram/
 
 # End of https://www.gitignore.io/api/go,vagrant,windows,visualstudiocode
