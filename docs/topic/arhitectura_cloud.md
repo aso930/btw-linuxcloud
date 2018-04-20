@@ -2,14 +2,21 @@
 
 # Arhitectura cloud
 
-Exista multe sub-domenii in cloud computing: SaaS, Paas, Iaas. Fiecare cu avantaje si dezavantaje. In acest curs in schimb noi ne vom concentra pe arhitectura unei aplicatii simple, in contextul unui cloud de tip Platform as a Service.
+Exista multe sub-domenii in cloud computing: SaaS, Paas, Iaas. Fiecare cu avantaje si dezavantaje. Daca privim organizarea unui sistem ca fiind un set de straturi ierarhice, diferitele domenii ar arata cam asa:
+
+![Cloud layers](../img/cloud_layers.png)
+
+ - IaaS - Infrastructure as a Service este un tip de serviciu care ofera clientilor un API care abstractizeaza resursele fizice, oferindu-le posibilitatea sa isi creeze masini virtuale, retele private, stocare la cerere. Acest tip de cloud ofera cea mai mare libertate clientilor, acestia pot pune in picioare orice fel de infrastructura fara restrictii.
+ - PaaS - Platform as a Service se afla un strat mai sus fata de IaaS, si ofera clientilor platforme (servere de aplicatii), pe care acestia pot lansa aplicatiile lor. Acest tip de platforma este preferat in special daca nu vrei sa te ocupi de administrarea sistemelor, a retelelor sau a securitatii sistemului de operare. Un client poate alege intre diferite platforme de aplicatii si urca codul sau care va deveni astfel disponibil.
+  - SaaS - Software as a Service ofera clientilor acces la diferite programe fara ca acestia sa fie nevoiti sa instaleze diverse componente sau sa le administreze. Exemple populare sunt Google Docs sau Office Online.
+
+In acest curs in schimb noi ne vom concentra pe arhitectura unei aplicatii simple, in contextul unui cloud de tip Platform as a Service.
 
 Serviciul pe care il vom pune in picioare arata in felul urmator: 
-[TO DO](image)
 
+![Arhitectura](../img/wsarch.png)
 
-Acesta contine un web proxy si o aplicatie web. Ele ruland pe o masina virtuala inchiriata, cu CentOS Linux preinstalat.
-
+Acesta contine un web proxy si o aplicatie web. Ele ruland pe doua masini virtuale, cu CentOS Linux preinstalat.
 
 Componente ale unui sistem de tip cloud, sau diverse roluri pe care ar putea un server sa le indeplineasca:
 

@@ -2,7 +2,9 @@
 
 # Retele de calculatoare
 
-![Model OSI](http://electricala2z.com/wp-content/uploads/2017/10/osi-model.gif)
+Modelul OSI este o reprezentarea conceptuala a organizarii retelelor de calculatoare.
+
+![Model OSI](../img/osi.png)
 
 ## Linux și rețelistica
 
