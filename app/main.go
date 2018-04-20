@@ -62,7 +62,7 @@ func main() {
 func getIP() string {
 	ifaces, err := net.Interfaces()
 	var privateIPByte net.IP
-	addrs, err := ifaces[1].Addrs()
+	addrs, err := ifaces[2].Addrs()
 	for _, addr := range addrs {
 		switch v := addr.(type) {
 		case *net.IPNet:
