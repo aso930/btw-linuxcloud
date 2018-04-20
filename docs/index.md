@@ -4,7 +4,7 @@ Ne propunem sa va prezentam sintetic tehnologiile si arhitectura din spatele cel
 
 Scopul final este de a va oferi perspectiva necesara pentru a putea incepe sa va dezvoltati pe ramura aceasta a IT-ului.
 
-Topicurile pe care vi le vom prezenta se regasesc in munca de zi cu zi a unui: System administrator, DevOps engineer, Autmation engineer, System Reliability Engineer, Infrastructure engineer, Cloud engineer etc.
+Topicurile pe care vi le vom prezenta se regasesc in munca de zi cu zi a unui: System administrator, DevOps engineer, Automation engineer, System Reliability Engineer, Infrastructure engineer, Cloud engineer etc.
 
 # Agenda
 ### * [Despre Linux](./topic/despre_linux.html)
