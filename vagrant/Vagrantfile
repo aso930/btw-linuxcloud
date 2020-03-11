@@ -32,4 +32,18 @@ Vagrant.configure("2") do |config|
         yum install -y git
         SHELL
     end
+	config.vm.define :db do |db_config|
+        db_config.vm.provider "virtualbox" do |vb|
+            vb.memory = "512"
+            vb.cpus = 1
+            vb.name = "btw_db"
+        end
+        db_config.vm.host_name = 'db'
+        db_config.vm.box = "#{os}"
+        db_config.vm.network "private_network", ip: "#{net}.3"
+        db_config.vm.network "public_network"
+        db_config.vm.provision "shell", inline: <<-SHELL
+        yum -y update
+        SHELL
+    end
 end
